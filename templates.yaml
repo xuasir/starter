@@ -1,0 +1,25 @@
+- templates:
+  - name: node-lib
+    color: '#42b983'
+    url: gh:xuasir/starter/node-lib
+    hint: 'Node.js library with TypeScript starter'
+
+  - name: node-monorepo
+    color: '#42b983'
+    url: gh:xuasir/starter/node-monorepo
+    hint: 'Node.js monorepo with TypeScript starter'
+
+  - name: web-lib
+    color: '#247ba0'
+    url: gh:xuasir/starter/web-lib
+    hint: 'Web library with TypeScript starter'
+
+  - name: vite
+    color: '#70c1b3'
+    url: gh:xuasir/starter/vite
+    hint: 'Vite Vue3 starter'
+
+  - name: rspack
+    color: '#70c1b3'
+    url: gh:xuasir/starter/rspack
+    hint: 'Rspack Vue3 starter'
